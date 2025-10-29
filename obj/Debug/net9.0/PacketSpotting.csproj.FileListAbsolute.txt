@@ -16,3 +16,4 @@
 /Users/denysrudenko/Documents/Projects/PacketSpotting/PacketSpotting/obj/Debug/net9.0/PacketSpotting.pdb
 /Users/denysrudenko/Documents/Projects/PacketSpotting/PacketSpotting/obj/Debug/net9.0/PacketSpotting.genruntimeconfig.cache
 /Users/denysrudenko/Documents/Projects/PacketSpotting/PacketSpotting/obj/Debug/net9.0/ref/PacketSpotting.dll
+/Users/denysrudenko/Documents/Projects/PacketSpotting/PacketSpotting/obj/Debug/net9.0/PacketSpotting.sourcelink.json

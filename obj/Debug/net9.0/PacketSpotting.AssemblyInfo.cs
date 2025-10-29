@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PacketSpotting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68c86242e471b91e3086ced50fdbda1c138c7c08")]
 [assembly: System.Reflection.AssemblyProductAttribute("PacketSpotting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PacketSpotting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
